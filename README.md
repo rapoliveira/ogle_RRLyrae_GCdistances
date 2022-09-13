@@ -13,6 +13,9 @@ Requires Python 3.7+ and the libraries listed in requirements.txt, which can be 
 - Auxiliary cats with memberships and mean magnitudes for all RR Lyrae
 - Figures to be saved...
 
+![figure-oliveira22](https://user-images.githubusercontent.com/29663898/189799705-bf23b3dd-d01f-4d23-a273-0ff29782771d.png)
+
+
 <!-- <img width="1608" alt="HW77-new-example" src="https://user-images.githubusercontent.com/29663898/153299914-9427f073-aa49-4f6d-97ff-84bc53ec3cfe.png"> -->
 
 ## References (TBD)
