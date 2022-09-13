@@ -22,4 +22,5 @@ Requires Python 3.7+ and the libraries listed in requirements.txt, which can be 
 - Bellini et al. (2009): membership equation
 - Same as Gaia code: Lindegren+2021, Riello+2021, Cantat-Gaudin & Brandt (2010), Fabricius+2021, Gaia Collaboration+2021
 
+
 <img width="1075" alt="oliveira22-print" src="https://user-images.githubusercontent.com/29663898/189799070-a4761496-0979-43d3-b142-ea6cd107a665.png">
