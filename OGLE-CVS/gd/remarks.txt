@@ -1,0 +1,11 @@
+OGLE-GD-RRLYR-00077 uncertain classification
+OGLE-GD-RRLYR-00606 uncertain
+OGLE-GD-RRLYR-00702 blended
+OGLE-GD-RRLYR-02666 uncertain
+OGLE-GD-RRLYR-03745 secondary period 0.276954 d
+OGLE-GD-RRLYR-03782 uncertain
+OGLE-GD-RRLYR-05540 blended
+OGLE-GD-RRLYR-05935 triple-mode: P_F = 0.4296175 d, P_1O = 0.3220625 d, P_2O = 0.2561699 d
+OGLE-GD-RRLYR-06110 blended
+OGLE-GD-RRLYR-07865 uncertain
+OGLE-GD-RRLYR-09200 triple-mode: P_F = 0.5758730 d, P_1O = 0.4294370 d, P_2O = 0.3415855 d

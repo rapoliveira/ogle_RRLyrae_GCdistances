@@ -1,0 +1,121 @@
+OGLE-BLG-RRLYR-00661 mode switching RRd -> RRc?
+OGLE-BLG-RRLYR-00876 uncertain
+OGLE-BLG-RRLYR-02209 uncertain
+OGLE-BLG-RRLYR-02895 uncertain
+OGLE-BLG-RRLYR-03331 significant period and amplitude change between 2003 (OGLE-III) and 2017 (OGLE-IV)
+OGLE-BLG-RRLYR-03377 uncertain
+OGLE-BLG-RRLYR-04158 uncertain
+OGLE-BLG-RRLYR-04254 Blazhko RRd star
+OGLE-BLG-RRLYR-05762 Blazhko RRd star
+OGLE-BLG-RRLYR-06807 additional eclipsing variability P = 1.912357 d
+OGLE-BLG-RRLYR-07226 mode switching RRd -> RRab
+OGLE-BLG-RRLYR-07393 Blazhko RRd star
+OGLE-BLG-RRLYR-07740 uncertain
+OGLE-BLG-RRLYR-08293 uncertain
+OGLE-BLG-RRLYR-09284 Blazhko RRd star
+OGLE-BLG-RRLYR-09424 uncertain
+OGLE-BLG-RRLYR-09783 uncertain
+OGLE-BLG-RRLYR-10110 uncertain
+OGLE-BLG-RRLYR-10221 uncertain
+OGLE-BLG-RRLYR-10731 uncertain
+OGLE-BLG-RRLYR-10872 uncertain
+OGLE-BLG-RRLYR-12245 mode switching RRd -> RRab
+OGLE-BLG-RRLYR-12276 uncertain
+OGLE-BLG-RRLYR-13442 mode switching RRab -> RRd
+OGLE-BLG-RRLYR-14277 gravitational microlensing event in 2013
+OGLE-BLG-RRLYR-14402 uncertain
+OGLE-BLG-RRLYR-14915 Blazhko RRd star
+OGLE-BLG-RRLYR-16857 uncertain
+OGLE-BLG-RRLYR-17342 mode switching RRab -> RRd
+OGLE-BLG-RRLYR-17381 uncertain
+OGLE-BLG-RRLYR-18170 uncertain
+OGLE-BLG-RRLYR-18190 uncertain
+OGLE-BLG-RRLYR-18209 uncertain
+OGLE-BLG-RRLYR-18381 uncertain
+OGLE-BLG-RRLYR-18489 uncertain
+OGLE-BLG-RRLYR-19103 uncertain
+OGLE-BLG-RRLYR-19121 secondary period 0.248191 d
+OGLE-BLG-RRLYR-19238 uncertain
+OGLE-BLG-RRLYR-19553 uncertain
+OGLE-BLG-RRLYR-19616 uncertain
+OGLE-BLG-RRLYR-19847 secondary period 0.224451 d
+OGLE-BLG-RRLYR-20752 uncertain
+OGLE-BLG-RRLYR-21046 uncertain
+OGLE-BLG-RRLYR-21231 uncertain
+OGLE-BLG-RRLYR-21400 secondary period 0.253890 d
+OGLE-BLG-RRLYR-21457 uncertain
+OGLE-BLG-RRLYR-22049 uncertain
+OGLE-BLG-RRLYR-22371 uncertain
+OGLE-BLG-RRLYR-22814 uncertain
+OGLE-BLG-RRLYR-23914 uncertain
+OGLE-BLG-RRLYR-24030 two RRc stars along one line of sight P1 = 0.291090 d, P2 = 0.257530 d
+OGLE-BLG-RRLYR-24137 triple-mode: P_F = 0.441926 d, P_1O = 0.320645 d, P_2O = 0.219914 d
+OGLE-BLG-RRLYR-24678 uncertain
+OGLE-BLG-RRLYR-24986 uncertain
+OGLE-BLG-RRLYR-25450 uncertain
+OGLE-BLG-RRLYR-26144 uncertain
+OGLE-BLG-RRLYR-26328 uncertain
+OGLE-BLG-RRLYR-26577 uncertain
+OGLE-BLG-RRLYR-26693 uncertain
+OGLE-BLG-RRLYR-27178 uncertain
+OGLE-BLG-RRLYR-28160 secondary period 0.232946 d
+OGLE-BLG-RRLYR-28301 uncertain
+OGLE-BLG-RRLYR-29268 uncertain
+OGLE-BLG-RRLYR-29396 uncertain
+OGLE-BLG-RRLYR-29451 uncertain
+OGLE-BLG-RRLYR-29501 gravitational microlensing event in 2016
+OGLE-BLG-RRLYR-29927 uncertain
+OGLE-BLG-RRLYR-30153 uncertain
+OGLE-BLG-RRLYR-30408 uncertain
+OGLE-BLG-RRLYR-30713 uncertain
+OGLE-BLG-RRLYR-30908 secondary period 0.203145 d
+OGLE-BLG-RRLYR-30986 Blazhko RRd star
+OGLE-BLG-RRLYR-31242 secondary period 3.56784 d
+OGLE-BLG-RRLYR-31327 secondary period 0.1720259 d
+OGLE-BLG-RRLYR-31754 secondary period 0.225980 d, tertiary period 0.131985 d
+OGLE-BLG-RRLYR-31930 uncertain
+OGLE-BLG-RRLYR-32256 uncertain
+OGLE-BLG-RRLYR-32462 Blazhko RRd star
+OGLE-BLG-RRLYR-32611 uncertain
+OGLE-BLG-RRLYR-33023 uncertain
+OGLE-BLG-RRLYR-33281 uncertain
+OGLE-BLG-RRLYR-33297 uncertain
+OGLE-BLG-RRLYR-33879 uncertain
+OGLE-BLG-RRLYR-33978 uncertain
+OGLE-BLG-RRLYR-34006 secondary period 0.219459 d
+OGLE-BLG-RRLYR-34015 uncertain
+OGLE-BLG-RRLYR-34152 uncertain
+OGLE-BLG-RRLYR-34201 uncertain
+OGLE-BLG-RRLYR-34373 variable mean magnitude
+OGLE-BLG-RRLYR-34572 uncertain
+OGLE-BLG-RRLYR-34817 uncertain
+OGLE-BLG-RRLYR-35417 uncertain
+OGLE-BLG-RRLYR-35838 secondary period 0.218517 d
+OGLE-BLG-RRLYR-36787 uncertain
+OGLE-BLG-RRLYR-37107 uncertain
+OGLE-BLG-RRLYR-37582 two RRab stars along one line of sight P1 = 0.508058 d, P2 = 0.623940 d
+OGLE-BLG-RRLYR-38559 secondary period 0.262820 d
+OGLE-BLG-RRLYR-38791 triple-mode: P_F = 0.480444 d, P_1O = 0.359887 d, P_2O = 0.286590 d
+OGLE-BLG-RRLYR-38890 secondary period 0.255165 d
+OGLE-BLG-RRLYR-40444 uncertain
+OGLE-BLG-RRLYR-41799 blended
+OGLE-BLG-RRLYR-41920 uncertain
+OGLE-BLG-RRLYR-41932 blended
+OGLE-BLG-RRLYR-44206 secondary period 0.256560 d
+OGLE-BLG-RRLYR-44661 secondary period 0.241792 d
+OGLE-BLG-RRLYR-45760 blended
+OGLE-BLG-RRLYR-46364 blended
+OGLE-BLG-RRLYR-47635 blended
+OGLE-BLG-RRLYR-47945 blended
+OGLE-BLG-RRLYR-50024 uncertain
+OGLE-BLG-RRLYR-52840 blended
+OGLE-BLG-RRLYR-53605 blended
+OGLE-BLG-RRLYR-56253 blended
+OGLE-BLG-RRLYR-56329 secondary period 0.255269 d
+OGLE-BLG-RRLYR-57262 triple-mode: P_F = 0.5964392 d, P_1O = 0.4465113 d, P_2O = 0.3558438 d
+OGLE-BLG-RRLYR-57685 blended
+OGLE-BLG-RRLYR-58572 secondary period 0.234097 d
+OGLE-BLG-RRLYR-59076 blended
+OGLE-BLG-RRLYR-60107 unusual light curve
+OGLE-BLG-RRLYR-65159 blended
+OGLE-BLG-RRLYR-65676 secondary period 0.245148 d
