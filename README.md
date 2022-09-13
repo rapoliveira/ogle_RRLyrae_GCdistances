@@ -16,7 +16,7 @@ Requires Python 3.7+ and the libraries listed in requirements.txt, which can be 
 <!-- <img width="1608" alt="HW77-new-example" src="https://user-images.githubusercontent.com/29663898/153299914-9427f073-aa49-4f6d-97ff-84bc53ec3cfe.png"> -->
 
 ## References (TBD)
-- **Oliveira et al.**, 2022, A&A, 657, A123
+- **Oliveira et al., 2022, A&A, 657, A123**
 - Clement et al. (2001): compilation of RR Lyrae in GCs
 - Soszynski et al. (2019): OGLE-IV data
 - Bellini et al. (2009): membership equation
